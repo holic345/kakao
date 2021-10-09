@@ -32,6 +32,9 @@
 		[37.57056001779529, 126.99046810138731,'<div style="padding:5px;">맥도날드 종로3가점 McDonald\'s</div>'],
 		[37.57311655456051, 127.01510539116606,'<div style="padding:5px;">맥도날드 서울동묘역점 McDonald\'s</div>'],
 		[37.56416674801353, 126.9844438972081,'<div style="padding:5px;">맥도날드 명동점 McDonald\'s</div>']
+		[37.54458425362564, 126.83157622677554,'<div style="padding:5px;">맥도날드 병관점 McDonald\'s</div>']
+		[37.44656980118255, 126.90116941328256,'<div style="padding:5px;">맥도날드 규리점 McDonald\'s</div>']
+		[37.59047879273179, 126.67553501143038'<div style="padding:5px;">맥도날드 도은점 McDonald\'s</div>']
 	];
 	
 	var markers = [];
