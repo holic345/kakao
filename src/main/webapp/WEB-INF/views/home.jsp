@@ -29,7 +29,7 @@
     });
 	
 	var data = [
-		[37.57056001779529, 126.99046810138731,'<div style="padding:5px;">맥도날드 종로3가점 McDonald\'s</div>'],
+		[37.57056001779529, 126.99046810138731,'<div style="padding:5px;">맥도날드 종로3가점 McDonald\'</div>'],
 		[37.57311655456051, 127.01510539116606,'<div style="padding:5px;">맥도날드 서울동묘역점 McDonald\'s</div>'],
 		[37.56416674801353, 126.9844438972081,'<div style="padding:5px;">맥도날드 명동점 McDonald\'s</div>']
 	];
